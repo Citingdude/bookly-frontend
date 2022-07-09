@@ -7,6 +7,11 @@ module.exports = {
       padding: "2rem",
     },
 
+    fontFamily: {
+      'display': ['Alegreya', 'serif'],
+      'body': ['Alegreya', 'serif'],
+    },
+
     extend: {},
   },
   plugins: [],
