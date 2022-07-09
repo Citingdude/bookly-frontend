@@ -1,1 +1,13 @@
-<h1 class="text-3xl font-bold underline">Welcome to SvelteKit</h1>
+<main>
+  <section class="py-8 sm:py-16">
+    <div class="container">
+      <h2 class="text-5xl font-bold text-stone-800">
+        Currently reading
+      </h2>
+
+      <div>
+
+      </div>
+    </div>
+  </section>
+</main>
