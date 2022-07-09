@@ -6,4 +6,32 @@
   body {
     @apply bg-stone-100 font-body;
   }
+
+  h1 {
+    @apply text-stone-800;
+  }
+
+  h2 {
+    @apply text-stone-800;
+  }
+
+  h3 {
+    @apply text-stone-800;
+  }
+
+  h4 {
+    @apply text-stone-800;
+  }
+
+  h5 {
+    @apply text-stone-800;
+  }
+
+  h6 {
+    @apply text-stone-800;
+  }
+
+  p {
+    @apply text-stone-700;
+  }
 }
