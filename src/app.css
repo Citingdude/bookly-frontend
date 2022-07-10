@@ -4,34 +4,14 @@
 
 @layer base {
   body {
-    @apply bg-stone-100 font-body;
+    @apply font-body bg-light-400 text-dark;
   }
 
   h1 {
-    @apply text-stone-800;
+    @apply font-bold text-3xl sm:text-4xl;
   }
 
   h2 {
-    @apply text-stone-800;
-  }
-
-  h3 {
-    @apply text-stone-800;
-  }
-
-  h4 {
-    @apply text-stone-800;
-  }
-
-  h5 {
-    @apply text-stone-800;
-  }
-
-  h6 {
-    @apply text-stone-800;
-  }
-
-  p {
-    @apply text-stone-700;
+    @apply font-bold text-2xl sm:text-3xl;
   }
 }

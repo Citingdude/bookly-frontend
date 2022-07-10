@@ -12,7 +12,7 @@ module.exports = {
       body: ["Alegreya", "serif"],
     },
 
-    color: {
+    colors: {
       transparent: "transparent",
       current: "currentColor",
       white: "#ffffff",
@@ -23,6 +23,10 @@ module.exports = {
         500: "#f1efe5",
       },
       dark: "#26262f",
+    },
+
+    boxShadow: {
+      md: "0px 8px 32px #F1EFE580",
     },
 
     extend: {},
