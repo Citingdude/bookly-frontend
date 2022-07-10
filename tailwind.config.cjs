@@ -8,8 +8,21 @@ module.exports = {
     },
 
     fontFamily: {
-      'display': ['Alegreya', 'serif'],
-      'body': ['Alegreya', 'serif'],
+      display: ["Alegreya", "serif"],
+      body: ["Alegreya", "serif"],
+    },
+
+    color: {
+      transparent: "transparent",
+      current: "currentColor",
+      white: "#ffffff",
+      black: "#000000",
+      primary: "#ea761c",
+      light: {
+        400: "#fefcf9",
+        500: "#f1efe5",
+      },
+      dark: "#26262f",
     },
 
     extend: {},
